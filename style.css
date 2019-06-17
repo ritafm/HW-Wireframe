@@ -1,0 +1,113 @@
+body  {
+    background-color: lightslategray;
+}
+
+header {
+    text-align: center;
+    width: 1200px;
+    height: 50px;
+    padding: 10px;
+    margin: 20px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: grey;
+    background: #efeee7;
+  }
+
+  nav  {
+    text-align: center;
+    width: 1200px;
+    height: 50px;
+    padding: 10px;
+    margin: 20px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: grey;
+    background: #efeee7;
+  }
+
+  section  {
+    float: left;
+    text-align: center;
+    width: 540px;
+    height: 300px;
+    padding: 20px;
+    margin: 20px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: grey;
+    background: #efeee7;
+  }
+
+  article  {
+    float: left;
+    text-align: top center;
+    width: 80%;
+    height: 200px;
+    padding: 20px;
+    margin: 20px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color:whitesmoke;
+    background: grey;
+  }
+
+  h1  {
+    float: left;
+    text-align: center;
+    width: 80%;
+    height: 10%;
+    padding: 20px;
+    margin: 10px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: grey;
+    background: #efeee7;
+  }
+
+  p {    
+    float: left;
+    text-align: center;
+    width: 80%;
+    height: 10%;
+    padding: 20px;
+    margin: 10px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: grey;
+    background: #efeee7;
+}
+
+aside {
+    float: right;
+    text-align: center;
+    width: 540px;
+    height: 300px;
+    padding: 20px;
+    margin: 20px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: grey;
+    background: #efeee7;
+}
+
+footer  {
+   clear: both; 
+   text-align: center;
+   width: 1200px;
+   height: 50px;
+   padding: 10px;
+   margin: 20px;
+   font-family: Georgia, "Times New Roman", Times, serif;
+   font-size: 18px;
+   line-height: 150%;
+   color: grey;
+   background: #efeee7;
+}
